@@ -73,3 +73,5 @@ retro-uninstaller/
     ├── deb/
     ├── rpm/retro-uninstaller.spec
     └── goreleaser? no -> cargo-dist.toml   # Rust cross-compile release tool
+
+thi sis bro ken
